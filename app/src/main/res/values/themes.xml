@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AsthmaDisease" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/ebony</item>
+        <item name="colorPrimaryVariant">@color/ebony</item>
+        <item name="android:statusBarColor">@color/ebony</item>
+    </style>
+
+    <style name="Theme.AsthmaDisease" parent="Base.Theme.AsthmaDisease" />
+</resources>
